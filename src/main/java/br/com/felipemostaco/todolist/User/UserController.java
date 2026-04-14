@@ -1,4 +1,4 @@
-package br.com.felipemostaco.todolist.User;
+package br.com.felipemostaco.todolist.user;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
